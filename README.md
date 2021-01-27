@@ -2,7 +2,7 @@
 
 ## MODパック等のインストール方法
 
-1. [Feed the Beast](https://feed-the-beast.com)をインストールして起動する。
+1. [FTB App](https://feed-the-beast.com)をインストールして起動する。
 1. BrowseからFTB Revelationを探し出してGetする。
 1. My ModpacksにFTB Revelationが出てくるのでそこのMoreをクリック。
 1. Open Folderをクリックするとフォルダが開かれる。
