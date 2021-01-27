@@ -1,0 +1,1 @@
+# mkihr_ojisan-s-server-installation
