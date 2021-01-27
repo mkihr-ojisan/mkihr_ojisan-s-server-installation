@@ -7,4 +7,4 @@
 1. My ModpacksにFTB Revelationが出てくるのでそこのMoreをクリック。
 1. Open Folderをクリックするとフォルダが開かれる。
 1. [これ](https://github.com/mkihr-ojisan/mkihr_ojisan-s-server-installation/raw/main/extra-mods.zip)をダウンロードしてこの中身をさっきのフォルダの中のmodsフォルダにコピーする。
-1. Playボタンをクリックすると、Minecraft Launcherが開くのでログインしてプレイする。
+1. FTB AppのPlayボタンをクリックすると、Minecraft Launcherが開くのでログインしてプレイする。
