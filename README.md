@@ -6,7 +6,7 @@
 1. BrowseからFTB Revelationを探し出してGetする。
 1. My ModpacksにFTB Revelationが出てくるのでそこのMoreをクリック。
 1. Open Folderをクリックするとフォルダが開かれる。
-1. [これ](https://github.com/mkihr-ojisan/mkihr_ojisan-s-server-installation/raw/main/extra-mods.zip)をダウンロードしてこの中身をさっきのフォルダの中のmodsフォルダにコピーする。
+1. [これ](https://github.com/mkihr-ojisan/mkihr_ojisan-s-server-installation/raw/main/extra-mods.zip)を展開してこの中身をさっきのフォルダの中のmodsフォルダにコピーする。
 1. FTB AppのPlayボタンをクリックすると、Minecraft Launcherが開くのでログインしてプレイする。
 1. アドレスはmki.hrl.cl:41837
 1. ホワイトリストに追加しないと入れないので初めて入るときは声かけてね
